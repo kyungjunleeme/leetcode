@@ -5,3 +5,5 @@ https://velog.io/@dombe/Leethub-%EC%9E%91%EB%8F%99%EC%A4%91%EC%A7%80-%EB%B0%8F-%
 https://velog.io/@dombe/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8C-Leethub-%EC%82%AC%EC%9A%A9
 
 백준허보드 있음
+
+https://inner-game.tistory.com/538
