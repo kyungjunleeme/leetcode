@@ -24,9 +24,7 @@ class Solution:
                 stack.append(char)
                 continue
             else:
-                if len(stack) == 0:
-                    return False
-                elif mapping_table[char] == stack[-1]:
+                if stack and mapping_table[char] == stack[-1]:
                     stack.pop()
                 else:
                     return False
