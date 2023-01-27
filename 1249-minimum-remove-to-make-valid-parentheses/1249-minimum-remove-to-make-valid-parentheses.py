@@ -27,9 +27,7 @@ class Solution:
             for i in stack_list:
                 delete_index_list.append(i[0])
         for i, ch in enumerate(s):
-            if i in delete_index_list:
-                pass
-            else:
+            if not i in delete_index_list:
                 answer_list.append(ch)
         return ''.join(answer_list)
         
